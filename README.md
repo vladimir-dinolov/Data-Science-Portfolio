@@ -11,7 +11,7 @@ Examples of projects I've completed
 
 
 # [Using Data to Power the Grid: A Case Study of a Hydroelectric Utility Company](https://github.com/vladimir-dinolov/Hydro.git)
-* Conducted descriptive and predictive analyses with multiple modeling techniques inclding:
+* Conducted descriptive and predictive analyses with multiple modeling techniques including:
   * Association Rule Mining
   * Text Mining
   * K-means Clustering
