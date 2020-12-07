@@ -1,7 +1,7 @@
 # Portfolio
 Examples of projects I've completed
 
-# [Erasing the Opportunity Gap in NYC Public Schools](https://github.com/vladimir-dinolov/NYDOE.git)
+# [Project 1: Erasing the Opportunity Gap in NYC Public Schools](https://github.com/vladimir-dinolov/NYDOE.git)
 * Cleaned 1,272 rows and 161 columns of public education data
 * Identified gaps in student academic achievement and Specialized High School Test registration by income and race.
 * Designed 20+ visualizations using R Studio then edited in Adobe Illustrator for improved aesthetics.
@@ -10,7 +10,7 @@ Examples of projects I've completed
 ![](https://github.com/vladimir-dinolov/Portfolio/blob/main/images/Infographic.PNG)
 
 
-# [Using Data to Power the Grid: A Case Study of a Hydroelectric Utility Company](https://github.com/vladimir-dinolov/Hydro.git)
+# [PRoject 2: Using Data to Power the Grid: A Case Study of a Hydroelectric Utility Company](https://github.com/vladimir-dinolov/Hydro.git)
 * Conducted descriptive and predictive analyses with multiple modeling techniques including:
   * Association Rule Mining
   * Text Mining
