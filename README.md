@@ -7,7 +7,6 @@ Examples of projects I've completed
 * Designed 20+ visualizations using R Studio then edited in Adobe Illustrator for improved aesthetics.
 * Created infographic in Adobe Illustrator persuading stakeholders to invest funds strategically by location and average income. 
 
-![](https://github.com/vladimir-dinolov/Portfolio/blob/main/images/Borough%20Analysis%20New.PNG)
 ![](https://github.com/vladimir-dinolov/Portfolio/blob/main/images/ENI%20Scores%20New.PNG)
 
 
