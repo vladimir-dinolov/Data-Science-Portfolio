@@ -24,7 +24,7 @@ I'm also an education subject matter expert with a background in social impact. 
 ![](https://github.com/vladimir-dinolov/Portfolio/blob/main/images/K-means%20Clusters.PNG?raw=true)
 
 # [Project 3: Tracking User Behavior and Acquisition to Increase Pageviews](https://github.com/vladimir-dinolov/Google-Analytics.git)
-•	Created Google Analytics campaign and dashboard reports for Commit’s Tableau Gallery, which resulted in an increase of 2,100 users and 8,000 page views.
+* Created Google Analytics campaign and dashboard reports for Commit’s Tableau Gallery, which resulted in an increase of 2,100 users and 8,000 page views.
 * Designed Google Data Studio dashboard to track historical usage and assisted in implementation of subpages curated to specific users. 
 
 Due to company policy, the live dashboard cannot be shared as it is intended for internal use. However, a static version is below. 
