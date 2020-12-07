@@ -10,8 +10,15 @@ Examples of projects I've completed
 ![](https://github.com/vladimir-dinolov/Portfolio/blob/main/images/Infographic.PNG)
 
 
-# [Project 2: Insert Name] Insert link to Project 2
-* Project descriptor 1
-* Project descriptor 2
-* Project descriptor 3
+# [Using Data to Power the Grid: A Case Study of a Hydroelectric Utility Company](https://github.com/vladimir-dinolov/Hydro.git)
+* Conducted descriptive and predictive analyses with multiple modeling techniques inclding:
+  * Association Rule Mining
+  * Text Mining
+  * K-means Clustering
+  * Decision Trees
+  * Naïve Bayes Algorithms
+  * Support Vector Machines
+  
+* Designed classifier to identify when the client should schedule outages to minimize waste and cos, potentially saving millions of dollars.  
+* Employed machine learning to classify positive vs. negative outages, identifying a total of 85,500 outages and how much energy was conserved or lost due to each outage. 
 
