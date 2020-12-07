@@ -9,7 +9,6 @@ I'm also an education subject matter expert with a background in social impact. 
 
 ![](https://github.com/vladimir-dinolov/Portfolio/blob/main/images/Infographic.PNG)
 
-
 # [Project 2: Optimizing Energy Outages to Minimize Costs and Maximize Revenue](https://github.com/vladimir-dinolov/Hydro.git)
 * Conducted descriptive and predictive analyses with multiple modeling techniques including:
   * Association Rule Mining
