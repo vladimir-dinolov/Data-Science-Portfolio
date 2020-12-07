@@ -22,4 +22,3 @@ Examples of projects I've completed
 * Employed machine learning to classify positive vs. negative outages, identifying a total of 85,500 outages and how much energy was conserved or lost due to each outage. 
 
 ![](https://github.com/vladimir-dinolov/Portfolio/blob/main/images/K-means%20Clusters.PNG?raw=true)
-![](https://github.com/vladimir-dinolov/Portfolio/blob/main/images/Outage%20Word%20Clouds.PNG?raw=true)
