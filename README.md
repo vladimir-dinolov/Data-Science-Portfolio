@@ -22,3 +22,12 @@ I'm also an education subject matter expert with a background in social impact. 
 * Employed machine learning to classify positive vs. negative outages, identifying a total of 85,500 outages and how much energy was conserved or lost due to each outage. 
 
 ![](https://github.com/vladimir-dinolov/Portfolio/blob/main/images/K-means%20Clusters.PNG?raw=true)
+
+# [Project 3: Tracking User Behavior and Acquisition to Increase Pageviews](https://github.com/vladimir-dinolov/Google-Analytics.git)
+•	Created Google Analytics campaign and dashboard reports for Commit’s Tableau Gallery, which resulted in an increase of 2,100 users and 8,000 page views.
+* Designed Google Data Studio dashboard to track historical usage and assisted in implementation of subpages curated to specific users. 
+
+Due to company policy, the live dashboard cannot be shared as it is intended for internal use. However, a static version is below. 
+
+![](https://github.com/vladimir-dinolov/Data-Science-Portfolio/blob/main/images/Commit%20Meta%20Dashboard%20V4.jpg?raw=true)
+
