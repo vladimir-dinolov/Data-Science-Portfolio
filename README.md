@@ -10,7 +10,7 @@ Examples of projects I've completed
 ![](https://github.com/vladimir-dinolov/Portfolio/blob/main/images/Infographic.PNG)
 
 
-# [PRoject 2: Using Data to Power the Grid: A Case Study of a Hydroelectric Utility Company](https://github.com/vladimir-dinolov/Hydro.git)
+# [Project 2: Using Data to Power the Grid: A Case Study of a Hydroelectric Utility Company](https://github.com/vladimir-dinolov/Hydro.git)
 * Conducted descriptive and predictive analyses with multiple modeling techniques including:
   * Association Rule Mining
   * Text Mining
