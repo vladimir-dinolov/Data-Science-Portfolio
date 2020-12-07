@@ -9,7 +9,6 @@ Examples of projects I've completed
 
 ![](https://github.com/vladimir-dinolov/Portfolio/blob/main/images/Borough%20Analysis%20New.PNG)
 ![](https://github.com/vladimir-dinolov/Portfolio/blob/main/images/ENI%20Scores%20New.PNG)
-![](https://github.com/vladimir-dinolov/Portfolio/blob/main/images/Underperforming%20Schools%20New.PNG)
 
 
 # [Project 2: Insert Name] Insert link to Project 2
