@@ -1,4 +1,4 @@
-# Welcome! My name is Vladimir Dinolov and I'm a Junior Data Scientist.
+# Welcome! My name is Vladimir Dinolov and I'm a Data Analyst. 
 I'm also an education subject matter expert with a background in social impact. Data Science and Education are my passions. I have been working in data science and analytics for over 2 years. In my previous career, I was a high performing educator ranked in the top 1% of 10,000 teachers in the Dallas-Fort Worth Area. I was then given the title 'Master Teacher' by the Texas Education Agency Commissioner. My success in the classroom led me to apply that same work ethic to becoming a Data Scientist, receiving my M.S. in Applied Data Science. I use a blend of information management, statistics, and computer science techniques and tools like Python, R, SQL, and Tableau to analyze big data and create visualizations that drive impact.
 
 # [Project 1: Erasing the Opportunity Gap in NYC Public Schools](https://github.com/vladimir-dinolov/NYDOE.git)
